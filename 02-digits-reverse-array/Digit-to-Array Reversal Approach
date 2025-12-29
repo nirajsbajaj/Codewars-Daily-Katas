@@ -1,0 +1,9 @@
+## Digit-to-Array Reversal Approach
+
+For this challenge, I broke the problem into smaller steps to make it easier to reason about.
+
+Instead of writing the final solution immediately, I focused on understanding how the input changed at each stage. By checking intermediate results and their types, I made sure each transformation behaved as expected.
+
+Once the steps were clear, I simplified the solution by removing the intermediate checks and combining the logic into a cleaner final version.
+
+This helped me avoid assumptions and made the final solution easier to write and understand.
